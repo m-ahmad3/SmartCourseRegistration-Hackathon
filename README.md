@@ -157,19 +157,6 @@ smart-course-registration/
 3. Click the extension icon 📅
 4. **Scan** → **Set Preferences** → **Generate** → **Apply**
 
----
-
-## 👥 Team
-
-<div align="center">
-
-| Name | Role |
-|------|------|
-| **Muhammad Ahmad** | Lead Developer |
-| **Syed Mohammad Hussain Bukhari** | Frontend & UX |
-| **Abdul Raffay Naeem** | Research & Testing |
-
-</div>
 
 ---
 
