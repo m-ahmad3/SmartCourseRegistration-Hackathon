@@ -134,7 +134,7 @@ smart-course-registration/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/smart-course-registration.git
+   git clone https://github.com/m-ahmad3/SmartCourseRegistration-Hackathon.git
    ```
 
 2. **Load in Chrome/Brave**
@@ -170,21 +170,6 @@ smart-course-registration/
 | **Abdul Raffay Naeem** | Research & Testing |
 
 </div>
-
----
-
-## 📈 Roadmap
-
-- [x] Phase 1: Problem Understanding
-- [x] Phase 2: User Validation & MVP Planning
-- [ ] Phase 3: Core MVP Implementation
-- [ ] Phase 4: UI Polish & Demo
-
-### Future Enhancements
-- [ ] Auto-enrollment with one click
-- [ ] Waitlist notifications
-- [ ] Multi-semester planning
-- [ ] Mobile companion app
 
 ---
 
